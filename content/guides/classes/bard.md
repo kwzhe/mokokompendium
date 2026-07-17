@@ -390,7 +390,7 @@ builds:
             rune: Wealth
             rune_rarity: epic
             notes: |-
-              **Meter Generation, Counter, Weak Point Lv. 1, Push Immunity, Mid Stagger*
+              **Meter Generation, Counter, Weak Point Lv. 1, Push Immunity, Mid Stagger**
               - Buckshot Acceleration star core grants you two stacks of Rhythm Buckshot, allowing you to hold onto one stack of Rhythm Buckshot. This improves your opportunities for hitting counters and allows you to keep other skills on cooldown easier.
           - name: Sonatina
             level: 10
